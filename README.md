@@ -1,5 +1,5 @@
 
-## Get Started with React Todo
+## Get Started with Laravel - React Todo Crud
 
 Setup:
 Clone the project by running the command below: <br>
