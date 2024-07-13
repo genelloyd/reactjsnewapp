@@ -20,13 +20,12 @@ then run:
 in the env file , uncomment this: change the DB connection to your desired database in my end I'm using mysql ---
 rename the database name, username and password if any: 
 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=laravel
-DB_USERNAME=root
-DB_PASSWORD=
-
+DB_CONNECTION=mysql <br>
+DB_HOST=127.0.0.1 <br>
+DB_PORT=3306 <br>
+DB_DATABASE=laravel <br>
+DB_USERNAME=root <br>
+DB_PASSWORD= <br>
 
 now you can run migrations:
 
