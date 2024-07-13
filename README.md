@@ -2,7 +2,7 @@
 ## Get Started with React Todo
 
 Setup:
-Clone the project by running the command below:
+Clone the project by running the command below: <br>
 `https://github.com/genelloyd/reactjsnewapp.git`
 
 then run:
